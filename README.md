@@ -1,4 +1,4 @@
-# -gebyokmkjepara
+
 # Gebyok MK Jepara
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/username/gebyok-mk-jepara)
